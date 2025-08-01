@@ -9,6 +9,7 @@
 ### 1. 📦 Supplies Calculator
 
 Easily calculate each player's total supply costs for group hunts.
+![Supplies Calculator](images/calculateSupplies.png)
 
 ### 2. 💰 Hunt Profit Divider
 
