@@ -14,14 +14,18 @@ Easily calculate each player's total supply costs for group hunts.
 ### 2. 💰 Hunt Profit Divider
 
 Split total loot equally and fairly—calculate how much each player should receive after accounting for waste.
+![Hunt Profit Divider](images/divideprofit.png)
 
 ### 3. 🛒 Where to Buy/Sell Items
 
 Search for any item to instantly see which NPC buys/sells it and for how much.
+![Buy/Sell Finder](images/wherebuysell.png)
 
 ### 4. 🎲 Drop/Skin Probability Calculator
 
 Find the odds of getting rare drops or skins based on drop rate, kills, and quantity desired.
+![Drop/Item Calculator](images/dropitem.png)
+![Drop/Skin Calculator](images/dropskin.png)
 
 ## Installation
 
