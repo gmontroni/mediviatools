@@ -1,10 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# Can u give me a code with this markdowns?
-
-Absolutely! Below you'll find a ready-to-copy-and-paste **README.md** in Markdown format, including image tags that you can manually place after uploading the screenshots to your GitHub repository.
-You’ll need to adjust the `yourusername` and image paths as needed.
-
 # Medivia Tools GUI
 
 ## What is Medivia Tools GUI?
@@ -99,19 +92,7 @@ The `.exe` will appear in the `dist\` folder.
 - **mediviatools-gui.py** — Main Python source file (Tkinter + ttkbootstrap).
 - **images/** — Screenshots for showcase.
 - No internet or database required; all info local/offline.
-
-
-## Credits
-
-Created by [matematiico](https://mediviathings.net/characters/search/?name=matematiico)
-
-> Questions, suggestions, or bug reports? Open an issue or send a pull request!
-
-**Tip:**
-After uploading your screenshots to your repository (e.g. in an `images` folder), replace the image paths above as needed.
-
-If you want the code block with this README string ready to paste into a `.md` file or a Python variable, let me know!
-
+- 
 <div style="text-align: center">⁂</div>
 
 [^1]: Screenshot-from-2025-08-01-15-20-09.jpg
@@ -121,5 +102,3 @@ If you want the code block with this README string ready to paste into a `.md` f
 [^3]: Screenshot-from-2025-08-01-15-21-11.jpg
 
 [^4]: Screenshot-from-2025-08-01-15-21-48.jpg
-
-[^5]: mediviatools-gui.py
